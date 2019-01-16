@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.4)  16 JAN 2019 21:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.4)  16 JAN 2019 22:01
 entering extended mode
 **./fizika.tex
 (fizika.tex
@@ -2238,7 +2238,7 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.15} into
 your preamble.
  on input line 142.
 
-<multimedija/fizika-intro.pdf, id=42, 803.25093pt x 1129.21875pt>
+<multimedija/fizika-intro.pdf, id=46, 803.25093pt x 1129.21875pt>
 File: multimedija/fizika-intro.pdf Graphic file (type pdf)
 
 <use multimedija/fizika-intro.pdf>
@@ -2249,7 +2249,7 @@ File: multimedija/fizika-intro.pdf Graphic file (type pdf)
 Package pdftex.def Info: multimedija/fizika-intro.pdf used on input line 146.
 (pdftex.def)             Requested size: 312.00417pt x 438.6188pt.
 
-<multimedija/fizika-intro.pdf, id=45, page=1, 803.25093pt x 1129.21875pt>
+<multimedija/fizika-intro.pdf, id=49, page=1, 803.25093pt x 1129.21875pt>
 File: multimedija/fizika-intro.pdf Graphic file (type pdf)
 
 <use multimedija/fizika-intro.pdf, page 1>
@@ -2407,6 +2407,7 @@ l.220 	\include{uvod/vektori}
 
 
 
+
 ]
 \openout2 = `elektrostatika/uvod.aux'.
 
@@ -2425,14 +2426,14 @@ Overfull \hbox (1.82977pt too wide) in paragraph at lines 5--6
  su povezane 
  []
 
-<multimedija/naboj.png, id=147, 364.36125pt x 281.55188pt>
+<multimedija/naboj.png, id=153, 364.36125pt x 281.55188pt>
 File: multimedija/naboj.png Graphic file (type png)
 
 <use multimedija/naboj.png>
 Package pdftex.def Info: multimedija/naboj.png used on input line 8.
 (pdftex.def)             Requested size: 143.99617pt x 111.26976pt.
 
-<multimedija/aristotle.jpg, id=148, 250.9375pt x 301.125pt>
+<multimedija/aristotle.jpg, id=154, 250.9375pt x 301.125pt>
 File: multimedija/aristotle.jpg Graphic file (type jpg)
 
 <use multimedija/aristotle.jpg>
@@ -2447,7 +2448,7 @@ been already used, duplicate ignored
                    \relax 
 l.22 
       [3 <./multimedija/naboj.png> <./multimedija/aristotle.jpg>]
-<multimedija/benjamin-franklin.jpg, id=152, 1204.5pt x 1204.5pt>
+<multimedija/benjamin-franklin.jpg, id=158, 1204.5pt x 1204.5pt>
 File: multimedija/benjamin-franklin.jpg Graphic file (type jpg)
 
 <use multimedija/benjamin-franklin.jpg>
@@ -2455,7 +2456,7 @@ Package pdftex.def Info: multimedija/benjamin-franklin.jpg used on input line 2
 5.
 (pdftex.def)             Requested size: 144.00076pt x 144.00076pt.
 
-<multimedija/henry-kevendis.jpg, id=153, 188.20313pt x 294.34969pt>
+<multimedija/henry-kevendis.jpg, id=159, 188.20313pt x 294.34969pt>
 File: multimedija/henry-kevendis.jpg Graphic file (type jpg)
 
 <use multimedija/henry-kevendis.jpg>
@@ -2465,7 +2466,7 @@ Package pdftex.def Info: multimedija/henry-kevendis.jpg used on input line 34.
 
 LaTeX Warning: Marginpar on page 4 moved.
 
-<multimedija/kulonova.png, id=154, 515.67656pt x 192.72pt>
+<multimedija/kulonova.png, id=160, 515.67656pt x 192.72pt>
 File: multimedija/kulonova.png Graphic file (type png)
 
 <use multimedija/kulonova.png>
@@ -2485,7 +2486,7 @@ been already used, duplicate ignored
 l.48 ...i objavljeni i široko rasprostranjeni. \\
                                                    [4 <./multimedija/benjamin-f
 ranklin.jpg> <./multimedija/henry-kevendis.jpg> <./multimedija/kulonova.png>]
-<multimedija/poisson.jpg, id=161, 240.9pt x 301.125pt>
+<multimedija/poisson.jpg, id=167, 240.9pt x 301.125pt>
 File: multimedija/poisson.jpg Graphic file (type jpg)
 
 <use multimedija/poisson.jpg>
@@ -2495,7 +2496,7 @@ Package pdftex.def Info: multimedija/poisson.jpg used on input line 50.
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-<multimedija/volta.jpg, id=162, 235.88126pt x 301.125pt>
+<multimedija/volta.jpg, id=168, 235.88126pt x 301.125pt>
 File: multimedija/volta.jpg Graphic file (type jpg)
 
 <use multimedija/volta.jpg>
@@ -2505,7 +2506,7 @@ Package pdftex.def Info: multimedija/volta.jpg used on input line 61.
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-<multimedija/kirhof.png, id=163, 355.3275pt x 472.76625pt>
+<multimedija/kirhof.png, id=169, 355.3275pt x 472.76625pt>
 File: multimedija/kirhof.png Graphic file (type png)
 
 <use multimedija/kirhof.png>
@@ -2534,7 +2535,7 @@ Overfull \hbox (3.85973pt too wide) in paragraph at lines 5--5
 et u mirovanju 
  []
 
-<multimedija/hair_static.jpg, id=170, 404.51125pt x 404.51125pt>
+<multimedija/hair_static.jpg, id=176, 404.51125pt x 404.51125pt>
 File: multimedija/hair_static.jpg Graphic file (type jpg)
 
 <use multimedija/hair_static.jpg>
@@ -2641,14 +2642,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
 Package rerunfilecheck Info: File `fizika.out' has not changed.
-(rerunfilecheck)             Checksum: 2D4BBC3AAC750DA66303A99B3A68250D;343.
+(rerunfilecheck)             Checksum: 80D9C09DF6F6A2A1B581E6F5DE8210F2;418.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
- 51425 strings out of 493333
- 1089622 string characters out of 3139195
- 1407951 words of memory out of 3000000
- 53857 multiletter control sequences out of 15000+200000
+ 51427 strings out of 493333
+ 1089645 string characters out of 3139195
+ 1407955 words of memory out of 3000000
+ 53858 multiletter control sequences out of 15000+200000
  74038 words of font info for 102 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,18n,98p,10444b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2661,9 +2662,9 @@ iles/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
 plri8a.pfb>
-Output written on fizika.pdf (15 pages, 1098232 bytes).
+Output written on fizika.pdf (15 pages, 1098952 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 2758 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 2766 words of extra memory for PDF output out of 10000 (max. 10000000)
 
