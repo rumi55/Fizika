@@ -1,5 +1,6 @@
-\contentsline {chapter}{Elektrostatika}{1}{chapter*.6}
-\contentsline {section}{Uvodna razmatranja}{1}{section*.7}
-\contentsline {subsection}{Uzajamno djelovanje naelektrisanih \IeC {\v c}estica}{4}{section*.8}
-\contentsline {subsection}{Elektroskop}{4}{section*.9}
+\contentsline {section}{Vektori}{1}{section*.6}
+\contentsline {chapter}{Elektrostatika}{3}{chapter*.7}
+\contentsline {section}{Uvodna razmatranja}{3}{section*.8}
+\contentsline {subsection}{Uzajamno djelovanje naelektrisanih \IeC {\v c}estica}{6}{section*.9}
+\contentsline {subsection}{Elektroskop}{6}{section*.10}
 \contentsfinish 
