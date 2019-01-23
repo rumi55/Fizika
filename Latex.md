@@ -41,3 +41,23 @@ LaTeX dokument je datoteka običnog teksta koji sadrži sadžaj dokumenta, sa do
 
 
 LaTeX izvorno podržava DVI i PDF, ali korišćenjem drugog softvera možete lako napraviti PostScript, PNG, JPEG, itd. <br/>
+
+
+<li>Kako stvari funkcionišu? </li>
+Svaki početak je težak, ali nema ništa lakše nego naučiti raditi sa Latexom.
+
+
+Na startu neophodno je znati šta radite. Prvo, ako ste korisnik Windows-a, upotrijebite program TexStudio kojeg možete preuzeti na texstudio.com. Ovaj program sadrži GUI okruženje preko kojeg možete vršiti pisanje i kompajliranje odgovarajućeg tex fajla.
+
+
+Običan tekst lako je pisati, dok upotreba matematičkih izraza iziskuje poznavanje sintakse, načina zapisa odgovarajućih matematičkih simbola. Npr, kada hoćete da napišete 2x na kvadrat koristite $ 2x^{2} $. O ovome možete tražiti dodatno na internetu.
+
+
+Slike, grafikoni i sl. generišu se također određenim komandama koje se zadaju.
+
+
+Dodavanje ili slanje nekog .tex u odgovarajucu oblast onako kako je struktuiran primjer fajla vi dajete doprinos ovome projektu.
+
+
+
+
