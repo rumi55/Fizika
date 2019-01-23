@@ -35,7 +35,7 @@ Fizika za srednjoškolce i osnovce<br/>
  
  
  
- Ma kraju, pročitajte nešto i o samome LaTex-u <a href="Latex.md"> ovdje</a>.
+ Na kraju, pročitajte nešto i o samome LaTex-u <a href="Latex.md"> ovdje</a>.
 
 
 
