@@ -1,4 +1,4 @@
-Šta je LaTex?
+<b>Suština o LaTex-u </b>
 
 <li>Tex </li>
 LaTeX (izgovara se ili "Lah-tech" ili "Lay-tech") je makro paket baziran na TeX koga je napravio Lesli Lamport. NJegova svrha je da uprosti TeX uređivanje tipova teksta, posebno za dokumente koji sadrže matematičke formule. Unutar sistema uređivanja tipova teksta, negovo ime se foramtira kao LaTeX.<br/>
@@ -59,5 +59,5 @@ Slike, grafikoni i sl. generišu se također određenim komandama koje se zadaju
 Dodavanje ili slanje nekog .tex u odgovarajucu oblast onako kako je struktuiran primjer fajla vi dajete doprinos ovome projektu.
 
 
-
+<b>Jednom kad počnete koristiti LaTex, MS Word i slični programi za obradu teksta otiće u zaborav.</b>
 
