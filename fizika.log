@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.4)  16 JAN 2019 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.4)  23 JAN 2019 23:26
 entering extended mode
 **./fizika.tex
 (fizika.tex
@@ -2554,64 +2554,6 @@ l.222 ...de{elektrostatika/elektrostaticke-pojave}
 
 
  <./multimedija/hair_static.jpg>]
-\openout2 = `elektrostatika/zakon-o-ocuvanju-naboja.aux'.
-
-
-No file elektrostatika/zakon-o-ocuvanju-naboja.tex.
-\openout2 = `elektrostatika/kulonov-zakon.aux'.
-
-No file elektrostatika/kulonov-zakon.tex.
-\openout2 = `elektrostatika/elektricno-polje.aux'.
-
-No file elektrostatika/elektricno-polje.tex.
-\openout2 = `elektrostatika/jacina-elektricnog-polja.aux'.
-
-No file elektrostatika/jacina-elektricnog-polja.tex.
-\openout2 = `elektrostatika/linije-sile-elektricnog-polja.aux'.
-
-No file elektrostatika/linije-sile-elektricnog-polja.tex.
-\openout2 = `elektrostatika/elektricno-polje-zemlje.aux'.
-
-No file elektrostatika/elektricno-polje-zemlje.tex.
-\openout2 = `elektrostatika/elektricni-fluks.aux'.
-
-No file elektrostatika/elektricni-fluks.tex.
-\openout2 = `elektrostatika/rad-u-elektricnom-polju.aux'.
-
-No file elektrostatika/rad-u-elektricnom-polju.tex.
-\openout2 = `elektrostatika/elektricni-potencijal.aux'.
-
-No file elektrostatika/elektricni-potencijal.tex.
-\openout2 = `elektrostatika/elektricni-napon.aux'.
-
-No file elektrostatika/elektricni-napon.tex.
-\openout2 = `elektrostatika/ekvipotencionalna-povrsina.aux'.
-
-No file elektrostatika/ekvipotencionalna-povrsina.tex.
-\openout2 = `elektrostatika/kretanje-naboja-u-elektricnom-polju.aux'.
-
-No file elektrostatika/kretanje-naboja-u-elektricnom-polju.tex.
-\openout2 = `elektrostatika/elektricna-infuluencija.aux'.
-
-No file elektrostatika/elektricna-infuluencija.tex.
-\openout2 = `elektrostatika/elektricni-kapacitet.aux'.
-
-No file elektrostatika/elektricni-kapacitet.tex.
-\openout2 = `elektrostatika/elektricni-kondenzatori.aux'.
-
-No file elektrostatika/elektricni-kondenzatori.tex.
-\openout2 = `elektrostatika/vezivanje-kondenzatora.aux'.
-
-No file elektrostatika/vezivanje-kondenzatora.tex.
-\openout2 = `elektrostatika/energija-elektricnog-polja.aux'.
-
-No file elektrostatika/energija-elektricnog-polja.tex.
-\openout2 = `elektrostatika/dielektrici-u-elektricnom-polju.aux'.
-
-No file elektrostatika/dielektrici-u-elektricnom-polju.tex.
-\openout2 = `elektrostatika/elektricna-struja.aux'.
-
-No file elektrostatika/elektricna-struja.tex.
 No file fizika.ind.
 
 Package bibentry Warning: You have used \nobibliography* 
@@ -2621,24 +2563,7 @@ Package bibentry Warning: You have used \nobibliography*
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
 (fizika.aux (uvod/predgovor.aux) (uvod/vektori.aux) (elektrostatika/uvod.aux)
-(elektrostatika/elektrostaticke-pojave.aux)
-(elektrostatika/zakon-o-ocuvanju-naboja.aux) (elektrostatika/kulonov-zakon.aux)
-(elektrostatika/elektricno-polje.aux)
-(elektrostatika/jacina-elektricnog-polja.aux)
-(elektrostatika/linije-sile-elektricnog-polja.aux)
-(elektrostatika/elektricno-polje-zemlje.aux)
-(elektrostatika/elektricni-fluks.aux)
-(elektrostatika/rad-u-elektricnom-polju.aux)
-(elektrostatika/elektricni-potencijal.aux) (elektrostatika/elektricni-napon.aux
-) (elektrostatika/ekvipotencionalna-povrsina.aux)
-(elektrostatika/kretanje-naboja-u-elektricnom-polju.aux)
-(elektrostatika/elektricna-infuluencija.aux)
-(elektrostatika/elektricni-kapacitet.aux)
-(elektrostatika/elektricni-kondenzatori.aux)
-(elektrostatika/vezivanje-kondenzatora.aux)
-(elektrostatika/energija-elektricnog-polja.aux)
-(elektrostatika/dielektrici-u-elektricnom-polju.aux)
-(elektrostatika/elektricna-struja.aux))
+(elektrostatika/elektrostaticke-pojave.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
 Package rerunfilecheck Info: File `fizika.out' has not changed.
@@ -2646,8 +2571,8 @@ Package rerunfilecheck Info: File `fizika.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
- 51427 strings out of 493333
- 1089645 string characters out of 3139195
+ 51389 strings out of 493333
+ 1088069 string characters out of 3139195
  1407955 words of memory out of 3000000
  53858 multiletter control sequences out of 15000+200000
  74038 words of font info for 102 fonts, out of 3000000 for 9000
@@ -2662,7 +2587,7 @@ iles/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
 plri8a.pfb>
-Output written on fizika.pdf (15 pages, 1098952 bytes).
+Output written on fizika.pdf (15 pages, 1099113 bytes).
 PDF statistics:
  219 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
