@@ -31,6 +31,11 @@ Fizika za srednjoškolce i osnovce<br/>
 <b>Glavni cilj ovog "skladišta" znanja iz fizike jeste upravo kreiranje boljeg nastavnog okruženja za učenike i učitelje fizike kroz online pristup nastavi fizike.</b><br/>
  - Mogucnosti su velike. Kada jednom napišete LaTex file i uploadujete ga ovdje i on bude objavljen, svi će imati pristup.<br/>
  - LaTex fajlove možete slati ovdje prateći plan i program fizike (važi za BiH), koristeći "Pull requests".<br/>
+ 
+ 
+ 
+ 
+ Ma kraju, pročitajte nešto i o samome LaTex-u <a href="Latex.md"> ovdje</a>.
 
 
 
