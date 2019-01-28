@@ -8,15 +8,19 @@
 \contentsline {section}{Atmosferski pritisak}{11}{section*.14}
 \contentsline {subsection}{Pojam i promjena}{11}{section*.15}
 \contentsline {subsection}{Normalni atmosferski pritisak}{11}{section*.16}
-\contentsline {chapter}{Elektrostatika}{13}{chapter*.17}
-\contentsline {section}{Uvodna razmatranja}{13}{section*.18}
-\contentsline {subsection}{Uzajamno djelovanje naelektrisanih \IeC {\v c}estica}{16}{section*.19}
-\contentsline {subsubsection}{Elektroskop}{16}{section*.20}
-\contentsline {subsubsection}{Zakon o o\IeC {\v c}uvanju naboja}{16}{section*.21}
-\contentsline {subsection}{Kulonov zakon}{16}{section*.22}
-\contentsline {subsection}{Elektri\IeC {\v c}no polje}{16}{section*.23}
-\contentsline {subsubsection}{Ja\IeC {\v c}ina elektri\IeC {\v c}nog polja}{16}{section*.24}
-\contentsline {subsubsection}{Linije sile elektri\IeC {\v c}nog polja}{16}{section*.25}
-\contentsline {subsubsection}{Elektri\IeC {\v c}no polje Zemlje}{16}{section*.26}
-\contentsline {subsection}{Elektri\IeC {\v c}ni fluks}{16}{section*.27}
+\contentsline {subsection}{Vertikalna raspodjela vazdu\IeC {\v s}nog pritiska}{12}{section*.17}
+\contentsline {subsection}{Horizontalna raspodjela vazdu\IeC {\v s}nog pritiska}{12}{section*.18}
+\contentsline {subsection}{Mjerenje atmosferskog pritiska}{12}{section*.19}
+\contentsline {section}{Izvori atmosferske energije}{12}{section*.20}
+\contentsline {chapter}{Elektrostatika}{13}{chapter*.21}
+\contentsline {section}{Uvodna razmatranja}{13}{section*.22}
+\contentsline {subsection}{Uzajamno djelovanje naelektrisanih \IeC {\v c}estica}{16}{section*.23}
+\contentsline {subsubsection}{Elektroskop}{16}{section*.24}
+\contentsline {subsubsection}{Zakon o o\IeC {\v c}uvanju naboja}{16}{section*.25}
+\contentsline {subsection}{Kulonov zakon}{16}{section*.26}
+\contentsline {subsection}{Elektri\IeC {\v c}no polje}{16}{section*.27}
+\contentsline {subsubsection}{Ja\IeC {\v c}ina elektri\IeC {\v c}nog polja}{16}{section*.28}
+\contentsline {subsubsection}{Linije sile elektri\IeC {\v c}nog polja}{16}{section*.29}
+\contentsline {subsubsection}{Elektri\IeC {\v c}no polje Zemlje}{16}{section*.30}
+\contentsline {subsection}{Elektri\IeC {\v c}ni fluks}{16}{section*.31}
 \contentsfinish 
