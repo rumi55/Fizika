@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.4)  28 JAN 2019 14:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.4)  29 JAN 2019 00:40
 entering extended mode
 **./fizika.tex
 (fizika.tex
@@ -2617,23 +2617,38 @@ LaTeX Warning: Marginpar on page 11 moved.
 
 LaTeX Warning: Marginpar on page 11 moved.
 
-) [11] [12]
+[11]
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+<multimedija/ciklon_anticiklon.jpg, id=254, 413.545pt x 228.855pt>
+File: multimedija/ciklon_anticiklon.jpg Graphic file (type jpg)
+
+<use multimedija/ciklon_anticiklon.jpg>
+Package pdftex.def Info: multimedija/ciklon_anticiklon.jpg used on input line 2
+24.
+(pdftex.def)             Requested size: 143.9983pt x 79.68839pt.
+ [12 <./multimedija/ciklon_anticiklon.jpg>]) [13]
 \openout2 = `elektrostatika/uvod.aux'.
 
- (elektrostatika/uvod.tex
+ (elektrostatika/uvod.tex [14
+
+
+
+]
 Overfull \hbox (1.82977pt too wide) in paragraph at lines 5--6
 \T1/pplj/m/n/10 U vri-jeme an-ti£ke Gr£ke bile su poz-nate £e-tiri po-jave koje
  su povezane 
  []
 
-<multimedija/naboj.png, id=261, 364.36125pt x 281.55188pt>
+<multimedija/naboj.png, id=270, 364.36125pt x 281.55188pt>
 File: multimedija/naboj.png Graphic file (type png)
 
 <use multimedija/naboj.png>
 Package pdftex.def Info: multimedija/naboj.png used on input line 8.
 (pdftex.def)             Requested size: 143.99617pt x 111.26976pt.
 
-<multimedija/aristotle.jpg, id=262, 250.9375pt x 301.125pt>
+<multimedija/aristotle.jpg, id=271, 250.9375pt x 301.125pt>
 File: multimedija/aristotle.jpg Graphic file (type jpg)
 
 <use multimedija/aristotle.jpg>
@@ -2642,12 +2657,8 @@ Package pdftex.def Info: multimedija/aristotle.jpg used on input line 15.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13
-
-
-
- <./multimedija/naboj.png> <./multimedija/aristotle.jpg>]
-<multimedija/benjamin-franklin.jpg, id=267, 1204.5pt x 1204.5pt>
+ [15 <./multimedija/naboj.png> <./multimedija/aristotle.jpg>]
+<multimedija/benjamin-franklin.jpg, id=276, 1204.5pt x 1204.5pt>
 File: multimedija/benjamin-franklin.jpg Graphic file (type jpg)
 
 <use multimedija/benjamin-franklin.jpg>
@@ -2655,7 +2666,7 @@ Package pdftex.def Info: multimedija/benjamin-franklin.jpg used on input line 2
 5.
 (pdftex.def)             Requested size: 144.00076pt x 144.00076pt.
 
-<multimedija/henry-kevendis.jpg, id=268, 188.20313pt x 294.34969pt>
+<multimedija/henry-kevendis.jpg, id=277, 188.20313pt x 294.34969pt>
 File: multimedija/henry-kevendis.jpg Graphic file (type jpg)
 
 <use multimedija/henry-kevendis.jpg>
@@ -2663,9 +2674,9 @@ Package pdftex.def Info: multimedija/henry-kevendis.jpg used on input line 34.
 (pdftex.def)             Requested size: 144.00937pt x 225.23065pt.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
-<multimedija/kulonova.png, id=269, 515.67656pt x 192.72pt>
+<multimedija/kulonova.png, id=278, 515.67656pt x 192.72pt>
 File: multimedija/kulonova.png Graphic file (type png)
 
 <use multimedija/kulonova.png>
@@ -2673,13 +2684,13 @@ Package pdftex.def Info: multimedija/kulonova.png used on input line 41.
 (pdftex.def)             Requested size: 143.99501pt x 53.8142pt.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./multimedija/benjamin-franklin.jpg> <./multimedija/henry-kevendis.jpg> <
-./multimedija/kulonova.png>] <multimedija/poisson.jpg, id=276, 240.9pt x 301.12
+ [16 <./multimedija/benjamin-franklin.jpg> <./multimedija/henry-kevendis.jpg> <
+./multimedija/kulonova.png>] <multimedija/poisson.jpg, id=286, 240.9pt x 301.12
 5pt>
 File: multimedija/poisson.jpg Graphic file (type jpg)
 
@@ -2688,9 +2699,9 @@ Package pdftex.def Info: multimedija/poisson.jpg used on input line 50.
 (pdftex.def)             Requested size: 144.00443pt x 180.00554pt.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 17 moved.
 
-<multimedija/volta.jpg, id=277, 235.88126pt x 301.125pt>
+<multimedija/volta.jpg, id=287, 235.88126pt x 301.125pt>
 File: multimedija/volta.jpg Graphic file (type jpg)
 
 <use multimedija/volta.jpg>
@@ -2698,9 +2709,9 @@ Package pdftex.def Info: multimedija/volta.jpg used on input line 61.
 (pdftex.def)             Requested size: 144.00252pt x 183.83301pt.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 17 moved.
 
-<multimedija/kirhof.png, id=278, 355.3275pt x 472.76625pt>
+<multimedija/kirhof.png, id=288, 355.3275pt x 472.76625pt>
 File: multimedija/kirhof.png Graphic file (type png)
 
 <use multimedija/kirhof.png>
@@ -2708,9 +2719,9 @@ Package pdftex.def Info: multimedija/kirhof.png used on input line 70.
 (pdftex.def)             Requested size: 144.00443pt x 191.59912pt.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 17 moved.
 
-) [15 <./multimedija/poisson.jpg> <./multimedija/volta.jpg> <./multimedija/kirh
+) [17 <./multimedija/poisson.jpg> <./multimedija/volta.jpg> <./multimedija/kirh
 of.png>]
 \openout2 = `elektrostatika/elektrostaticke-pojave.aux'.
 
@@ -2720,7 +2731,7 @@ Overfull \hbox (3.85973pt too wide) in paragraph at lines 5--5
 et u mirovanju 
  []
 
-<multimedija/hair_static.jpg, id=285, 404.51125pt x 404.51125pt>
+<multimedija/hair_static.jpg, id=295, 404.51125pt x 404.51125pt>
 File: multimedija/hair_static.jpg Graphic file (type jpg)
 
 <use multimedija/hair_static.jpg>
@@ -2728,9 +2739,9 @@ Package pdftex.def Info: multimedija/hair_static.jpg used on input line 8.
 (pdftex.def)             Requested size: 144.00061pt x 144.00061pt.
 
 
-LaTeX Warning: Marginpar on page 16 moved.
+LaTeX Warning: Marginpar on page 18 moved.
 
-) [16
+) [18
 
 
  <./multimedija/hair_static.jpg>]
@@ -2752,13 +2763,13 @@ Package rerunfilecheck Info: File `fizika.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
  ) 
 Here is how much of TeX's memory you used:
- 51461 strings out of 493333
- 1087809 string characters out of 3139195
- 1409060 words of memory out of 3000000
- 53913 multiletter control sequences out of 15000+200000
+ 51848 strings out of 493333
+ 1099290 string characters out of 3139195
+ 1423006 words of memory out of 3000000
+ 54297 multiletter control sequences out of 15000+200000
  92271 words of font info for 146 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 92i,18n,98p,10444b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 92i,18n,98p,10444b,2006s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
@@ -2769,9 +2780,9 @@ m Files/MiKTeX 2.9/fonts/type1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/p
 alatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on fizika.pdf (25 pages, 4179226 bytes).
+Output written on fizika.pdf (27 pages, 4209985 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 2853 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 359 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 2858 words of extra memory for PDF output out of 10000 (max. 10000000)
 

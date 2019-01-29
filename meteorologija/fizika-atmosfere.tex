@@ -160,8 +160,74 @@ Gornja jednačina vrijedi samo za izračunavanje gustoće suhog vazduha, tj. tak
 	Ako se za posmatranu horizontalnu površinu uzme površina od $1cm^{2}$, onda se pritisak vaduha na takvu površinu zove \textbf{atmosferski ili vazdušni pritisak}.
 	To znači da je vazdušni pritisak na $1cm^{2}$ Zemljine površine jednak težini vazdušnog stuba čiji je poprečni presjek  $1cm^{2}$, a visina od površine Zemlje do gornje granice atmosfere.
 	\subsection{Vertikalna raspodjela vazdušnog pritiska}
+	\marginnote[0pt]{
+		Veličina koja izražava promjenu pritiska sa promjenom nadmorske visine naziva se \textbf{barička stopa}. Barička stopa pokazuje broj metara za koji treba povećati nadmorsku visinu da bi atmosferski pritisak pao za $ 1mbar$ ($1hPa$), odnosno $1mmHg$.
+	}
+	Vazdušni pritisak opada sa povećanjem visine. Uzrok ove pojave jeste smanjenje temperature, specifične gustoće, mase, težine a time i sile vazduha koja pritiska posmatranu površinu. Iako su međusobno povezani njihova zavisnost nije linearna, nju opisuje barometarska visinska formula:
+	$$ p = p_0\cdot \exp(-kz)$$
+	gdje su: $ p $ - pritisak na bilo kojoj visini, $ p_0 $ - pritisak na nivou mora, $ k $- koeficijent i $ z $ - posmatrana visina.
+	\begin{figure}
 	
+		\begin{tikzpicture}%[declare function={myexp(\x)=0.9*(1/x);}]
+		\begin{axis}[
+		%grid=both,
+		axis lines = left,
+		xlabel = $p (kPa)$,
+		ylabel = {$z (km)$},
+		domain=0:1000,
+	%	domain y=0:50,
+		]
+	 	\addplot [
+	 	%domain=-10:10, 
+	 	samples=4, 
+	 	color=blue,
+	 	] %{myexp(x)};
+	 	%{x*exp(-y*k)};
+		coordinates {
+			(101.33,0)
+			(99.49, 0.153)
+			(95.91, 0.458)
+			%(94.19, 0.610)
+			(92.46, 0.763)
+			(90.81, 0.915)
+			(89.15, 1.068)
+			%(85.91, 1.373)
+			(72.40, 2.746)
+			(46.61, 6.102)
+			(23.93, 10.679)
+			(18.82, 12.204)
+			(9.17, 16.781)
+			(4.49, 21.357)
+			(1.12, 30.510)
+			(0.146, 45.720)
+			%(0.022, 60.960)
+			%(0.0000109, 91.440)
+		};
+
+		\end{axis}
+		\end{tikzpicture}
+	
+		\caption{Opadanje vazdušnog pritiska sa porastom nadmorske visine.
+			Sa povećanjem nadmorske visine smanjuje se gustina vazdušnog stuba, pa će i njegova masa, odnosno pritisak na jedinicu površine biti sve manji. Zbog smanjenja gustine vazduha, atmosferski pritisak neravnomjerno pada sa porastom visine, i to u početku brže, a zatim, što je nadmorska visina veća, sve sporije, jer se skoro $ 50\% $ mase vazduha iz atmosfere nalazi u prizemnom sloju tj., u donjih $5km$ troposfere}
+		\label{graph:atm}
+	
+	\end{figure}
+		
+
+	
+	
+	
+
 	\subsection{Horizontalna raspodjela vazdušnog pritiska}
+	Ako na geografsku kartu nanesemo vrijednosti pritiska izmjerene u nekom određenom terminu, dobićemo prikaz raspodjele vazdušnog pritiska na Zemljinoj površini. Kako su meteorološke stanice koje mjere pritisak na različitim nadmorskim visinama, potrebno je sve vrijednosti svesti na određeni nivo, tj. nivo mora ili nivo određene standardne izobarske površine. 
+		\begin{marginfigure}%
+		\includegraphics[width=\linewidth]{ciklon_anticiklon}
+		\caption{Ilustracija ciklona i anticiklona}
+		\label{fig:ciklon_anticiklon}
+	\end{marginfigure}
+	To se vrši tako što se očitana vrijednost ispravi za greške: instrumenta, temperature, nadmorske visine i sile Zemljine teže. Radi preglednijeg predstavljanja ispravljenih vrijednosti pritisaka koriste se izobare. Izobare su krive linije koje na geografskoj karti spajaju sva mjesta (tačke) sa istim atmosferskim pritiskom. Karte sa takvim linijama zovu se izobarske karte. Neke od izobara su zatvorene linije, približno kružnog ili elipsastog oblika, mada mogu biti i nepravilne krive. \\
+	Izobara od 1013mbar predstavlja normalni atmosferski pritisak. Ako je vazdušni pritisak iznad neke oblasti Zemljine površine niži od normalnog, kaže se, da se iznad te oblasti nalazi ciklon ili vazdušna depresija. \textbf{Ciklon} predstavlja oblast u zatvorenim izobarama  u kojoj se vazdušni pritisak smanjuje prema centru, gdje je najniži. Vazduh se kreće na gore i konvergira. Zimi su oblasti niskog pritiska iznad mora a ljeti iznad kontinenta. U slučaju ako je iznad te oblasti vazdušni pritisak viši od normalnog, iznad posmatrane oblasti vlada anticiklon. \textbf{Anticiklon} je oblast ograničena zatvorenim izobarama u kojoj se vazdušni pritisak povećava ka centru, gdje je najviši.  Hladan i suhi vazduh ima pritisak iznad $1013.2 mbara$. Vazduh ide na dole i van datog mjesta divergira. Zimi su oblasti visokog pritiska iznad kontinenta,  a ljeti iznad mora. Anticiklone - centri visokog pritiska.
+	
 	
 	\subsection{Mjerenje atmosferskog pritiska}
 	
